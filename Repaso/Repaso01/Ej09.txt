@@ -1,0 +1,4 @@
+En git hay 3 zonas de trabajo: working directory, staging area y repository. remoto
+¿con qué comando de git paso los ficheros del working directory al staging area?
+
+git add .

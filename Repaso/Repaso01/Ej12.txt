@@ -1,0 +1,26 @@
+Convierte el siguiente programa escrito en pseudocódigo a diagrama de flujo
+
+Proceso Ejercicio
+	Definir a Como Entero
+	Escribir 'Inserte un numero'
+	Leer a
+	Si a<5 Entonces
+		a <- a-1
+		Segun a  Hacer
+			1:
+				a <- a*2
+			2:
+				a <- a+2
+			De Otro Modo:
+				a <- a-1
+		FinSegun
+	SiNo
+		Repetir
+			a <- a+2
+		Hasta Que a>100
+	FinSi
+	Para i<-3 Hasta 5 Hacer
+		a <- a+i
+	FinPara
+	Escribir a
+FinProceso

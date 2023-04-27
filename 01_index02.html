@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color: lightblue;
+            width: 300px;
+            border-radius: 10px;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div>Página web de Jorge</div>
+        <div id="resultado">...</div>
+    </div>
+    <script>
+        let num1 = 5
+        let num2 = 2
+        let resultado = num1 + num2
+        document.getElementById("resultado").innerHTML = resultado
+    </script>
+</body>
+
+</html>

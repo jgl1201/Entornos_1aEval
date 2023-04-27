@@ -1,0 +1,3 @@
+En qué consiste la evaluación de riesgos (en la etapa de análisis)
+
+Detectar los posibles riesgos y calcular la probabilidad de que ocurran y su impacto.

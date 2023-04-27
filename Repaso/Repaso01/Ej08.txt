@@ -1,0 +1,3 @@
+Ensamblador es un lenguaje…
+
+B. de bajo nivel

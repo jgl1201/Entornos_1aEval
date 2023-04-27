@@ -1,0 +1,132 @@
+Una de las características del software libre es que es 100% gratuito siempre.
+Verdadero   (X)
+Falso
+
+Los software de tipo Freeware se distribuye sin cargo, incluyendo en algunas ocasiones el código fuente (aunque no es lo habitual)
+Verdadero   (X)
+Falso
+
+Es aquel que permite que el hardware funcione. Lo forman los programas que permiten la administración de la parte física o los recursos del ordenador.
+Software de sistema
+Software de aplicación
+Software de programación
+
+
+
+Las siglas GPL ¿a qué se refieren?
+A un tipo de zócalo de la placa base
+A un tipo de módulo de memoria ram
+A un tipo de bus de datos
+A un tipo de licencia de software
+A ninguna de las anteriores
+
+
+
+¿Que etapa (del ciclo de vida del software) falta en la siguiente lista? 
+Análisis, codificación, pruebas, mantenimiento.
+
+
+
+
+
+¿Cuál de los siguientes modelos de ciclo de vida son más fáciles de comprender, planificar y seguir?
+Ciclo de vida en Cascada
+Modelo iterativo incremental 
+Modelo en espiral
+
+
+¿Cuál de los siguientes modelos de ciclo de vida son recomendables cuando estamos ante proyectos de gran tamaño y que necesitan constantes cambios?
+Ciclo de vida en Cascada
+Modelo iterativo incremental 
+Modelo en espiral
+
+
+
+
+¿Cuál de los siguientes modelos de ciclo de vida son recomendables cuando estamos ante proyectos estables y que están bien comprendidos por los programadores?
+Ciclo de vida en Cascada
+Modelo iterativo incremental 
+Modelo en espiral
+
+
+
+¿En qué etapa (del ciclo de vida del software) se obtienen los requisitos funcionales y los no funcionales?
+
+
+
+
+¿Cómo se denomina al conjunto de instrucciones que se ejecutan de manera secuencial con el objetivo de realizar una o varias tareas en un sistema?
+
+
+
+
+En este tipo de lenguajes, un programa traductor convierte el código fuente a código objeto y otro programa enlazador unirá el código objeto del programa con el código objeto de las librerías necesarias para producir el programa ejecutable.
+Lenguajes interpretados
+Lenguajes virtuales
+Lenguajes compilados
+
+
+
+En qué fase de la compilación se leen de manera secuencial todos los caracteres de nuestro código fuente, buscando palabras reservadas, caracteres de puntuación, y agrupándolos en cadenas de caracteres "especiales".
+Fase de análisis lexicográfico
+Fase de análisis sintáctico-semántico
+Fase de optimización de código
+Fase de generación de código
+Fase de enlazamiento con librerías
+
+
+
+La siguiente instrucción a que tipo de lenguaje pertenece
+Mov AL, 061h
+
+
+El comando Status de Git ¿qué función realiza?
+Nos dice cuáles archivos aún no han sido agregados al estado de Staging area y cuales si.
+Muestra una barra de estado indicando el tiempo que falta para subir los archivos cuando hacemos push
+Nos muestra información en modo texto del tiempo que falta para subir los archivos cuando hacemos push
+Ninguna de las anteriores
+
+
+
+
+Resume muy brevemente que se hace en la etapa de diseño.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Define brevemente qué es un breakpoint o punto de ruptura.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+En JUnit para que sirve la notación @BeforeClass (brevemente)

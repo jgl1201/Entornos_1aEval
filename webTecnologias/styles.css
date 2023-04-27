@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    border: 3px solid yellowgreen;
+}
+
+.item {
+    list-style: none;
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.item a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: fuchsia;
+    
+}
+
+.item:hover {
+    background-color: lightsalmon;
+}
+
+h1 {
+    text-decoration: underline;
+    text-transform: uppercase
+}

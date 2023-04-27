@@ -1,0 +1,3 @@
+¿Cuál es el atajo de teclado de visual studio code (Windows) usado para formatear (indentar) el código fuente?
+
+alt + shift + f

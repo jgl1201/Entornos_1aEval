@@ -1,0 +1,10 @@
+Indica al menos 5 etapas del desarrollo del software
+
+Análisis y Planificación
+Diseño
+Implementación
+Pruebas
+Documentación
+Despliegue / instalación
+Entrenamiento y soporte
+Uso y mantenimiento

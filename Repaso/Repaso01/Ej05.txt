@@ -1,0 +1,7 @@
+5- Nuestro cliente nos pide que desarrollemos una aplicación web para la gestión de sus ventas.
+en conversaciones con el cliente, hemos detectado que no tiene muy claro todas las necesidades o requisitos que quiere que le implementemos.
+nuestro grupo tampoco tiene experiencia en desarrollar aplicaciones de ese estilo
+¿Qué ciclo de vida sería el más adecuado?
+
+
+C. Modelo iterativo e incremental

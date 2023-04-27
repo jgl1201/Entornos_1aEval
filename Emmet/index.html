@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- nav>ul>li*3.menuitem.item$ -->
+    <nav>
+        <ul>
+            <li class="menuitem item1"></li>
+            <li class="menuitem item2"></li>
+            <li class="menuitem item3"></li>
+        </ul>
+    </nav>
+
+    <!-- div>img[src=https://images.unsplash.com/photo-1591871937631-2f64059d234f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80] -->
+    <div>
+        <img src="https://images.unsplash.com/photo-1591871937631-2f64059d234f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80"/>
+    </div>
+
+    <!-- h1[title=principal]{Título 1} -->
+    <h1 title="principal">Título 1</h1>
+
+    <!-- div.parrafo>h${Cabecera $}*2+hr#separador[width=5px] -->
+    <div class="parrafo">
+        <h1>Cabecera 1</h1>
+        <h2>Cabecera 2</h2>
+        <hr id="separador" width="5px">
+    </div>
+    
+
+    <!-- div+div>p>span{Hola}+em{Soy Jorge}^blockquote{cebem} -->
+    <!-- div+div>(p>span{Hola}+em{Soy Jorge})+blockquote{cebem} -->
+    <div></div>
+    <div>
+        <p>
+            <span>Hola</span>
+            <em>Soy Jorge</em>
+        </p>
+        <blockquote>
+            cebem
+        </blockquote>
+    </div>
+
+    <!-- ul>li.c$@-*4 -->
+    <ul>
+        <li class="c4"></li>
+        <li class="c3"></li>
+        <li class="c2"></li>
+        <li class="c1"></li>
+    </ul>
+
+    <!-- .rojo -->
+    <div class="rojo"></div>
+
+    <!-- header>(img.cabecera[src=foto.png][alt=foto])+h1.title{Título de la web} -->   
+    <header>
+        <img class="cabecera" src="foto.png" alt="foto">
+        <h1 class="cabecera">Título de la web</h1>
+    </header>
+
+    <!-- ol>li.item*4 -->
+    <ol>
+        <li class="item">uno</li>
+        <li class="item">dos</li>
+        <li class="item">tres</li>
+        <li class="item">cuatro</li>
+    </ol>
+
+    <!-- CÓDIGOS USADOS
+        nav>ul>li
+        nav>ul>li*3
+        nav>ul>li*3.menuitem
+        nav>ul>li*3.menuitem.item$
+
+        div>img[src=]
+
+        h1[title=principal]{Título 1}
+
+        div.parrafo>h${Cabecera $}*2
+        div.parrafo>h${Cabecera $}*2+hr[width=5px]
+        div.parrafo>h${Cabecera $}*2+hr#separador[width=5px]
+
+        div+div>p>span{Hola}+em{Soy Jorge}^blockquote{cebem}
+        div+div>(p>span{Hola}+em{Soy Jorge})+blockquote{cebem}   
+
+        ul>li.c$@-*4
+        ul>li.c$@3*4
+
+        .rojo
+     -->
+</body>
+
+</html>
